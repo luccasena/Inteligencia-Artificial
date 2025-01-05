@@ -1,22 +1,13 @@
-# Inteligência Artificial :robot:
-
-Nesse respositório, irei compartilhar todo o meu conhecimento na área de inteligência artificial, desde machine learning até deep learning com projetos práticos e documentos sobre esta área
-
-
-## Machine Learning e Data Science 
-
-### :pushpin: English:
-The purpose of this document is to share my knowledge about machine learning and data science. Over time, I will contribute content that I believe is important in the field. I hope readers find valuable insights and enjoy exploring the information presented here.Check bellow all documents in this language: 
-
-1. [Adult Income Predict](/predictions/base_adult_income/main.ipynb)
-
+# Inteligência Artificial / Artificial intelligence :robot:
 
 ### :pushpin: Português (Brasil):
-Este documento tem como principal objetivo compartilhar meu conhecimento sobre machine learning e data science. Ao longo do tempo, vou contribuir com conteúdos que julgo ser importante nessa área e espero que de alguma forma eu possa contribuir com alguma informação para quem está lendo:
+Neste repositório, compartilharei todo o meu conhecimento na área de inteligência artificial, abrangendo desde machine learning até deep learning, com projetos práticos e documentos produzidos como resultado dos meus estudos.
 
-1. [Previsão de renda para adultos](/predictions/base_adult_income/principal.ipynb)
-2. [Previsão na base de dados do censos](/predictions/base_de_dados_censo/main.ipynb)
-3. [Saúde](/predictions/base_healthcare/main.ipynb)
+### :pushpin: English:
+In this repository, I will share all my knowledge about artificial intelligence, from machine learning to deep learning with practical projects and documents generated as a result of my studies.
+
+1. [Estudos/Studies.](Studies/README.MD)
+2. [Projetos/Projects.](Projects/README.md)
 
 - Ferramentas/Tools:
 
